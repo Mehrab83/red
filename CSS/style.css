@@ -511,7 +511,7 @@ Explore part Starts
 }
 .explore_body .explore_nav .active{
     background: #007F5F;
-    color: red;
+    color: #fff;
 }
 .explore_slide .slide_item{
     margin: 0 15px;
